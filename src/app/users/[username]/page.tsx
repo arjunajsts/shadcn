@@ -35,7 +35,7 @@ const SingleUserPage = () => {
           </BreadcrumbItem>
           <BreadcrumbSeparator />
           <BreadcrumbItem>
-            <BreadcrumbPage>John Doe</BreadcrumbPage>
+            <BreadcrumbPage>Arjuna</BreadcrumbPage>
           </BreadcrumbItem>
         </BreadcrumbList>
       </Breadcrumb>
@@ -126,19 +126,19 @@ const SingleUserPage = () => {
               </div>
               <div className="flex items-center gap-2">
                 <span className="font-bold">Username:</span>
-                <span>john.doe</span>
+                <span>Arjuna</span>
               </div>
               <div className="flex items-center gap-2">
                 <span className="font-bold">Email:</span>
-                <span>john.doe@gmail.com</span>
+                <span>arjuna@gmail.com</span>
               </div>
               <div className="flex items-center gap-2">
                 <span className="font-bold">Phone:</span>
-                <span>+1 234 5678</span>
+                <span>+918123454554</span>
               </div>
               <div className="flex items-center gap-2">
                 <span className="font-bold">Location:</span>
-                <span>New York, NY</span>
+                <span>Banglore, INDIA</span>
               </div>
               <div className="flex items-center gap-2">
                 <span className="font-bold">Role:</span>
@@ -146,7 +146,7 @@ const SingleUserPage = () => {
               </div>
             </div>
             <p className="text-sm text-muted-foreground mt-4">
-              Joined on 2025.01.01
+              Joined on 2025.05.01
             </p>
           </div>
           {/* CARD LIST CONTAINER */}
